@@ -2,7 +2,7 @@
 
 # OUTPUT
 
-# home.html
+# index.html
 ![Screenshot (26)](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/1df57897-0db8-4f24-b6e3-00707526e271)
 
 # product.html

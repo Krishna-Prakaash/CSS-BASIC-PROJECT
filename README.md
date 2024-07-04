@@ -3,14 +3,14 @@
 # OUTPUT
 
 # home.html
-![Screenshot 2024-07-03 212824](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/d77d12e5-6af7-4e27-b0e5-037ead3e95bc)
+![Screenshot (26)](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/1df57897-0db8-4f24-b6e3-00707526e271)
 
 # product.html
-![Screenshot 2024-07-03 213920](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/4f9b3616-a515-41ed-b0b3-7ebef5bb4819)
+![Screenshot (29)](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/a40c6374-7690-476f-b491-96935742fe2f)
 
 # people.html
-![Screenshot 2024-07-03 214904](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/de5dced3-3e22-403b-b6bc-9d140ff8dbfc)
+![Screenshot (28)](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/40fc22b9-3ef9-47fe-81e0-512e354d0487)
 
 # contact.html
-![Screenshot 2024-07-03 221246](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/607db54a-8846-4cb9-90a1-3397a3685939)
+![Screenshot (27)](https://github.com/Krishna-Prakaash/CSS-BASIC-PROJECT/assets/93427144/44fa32d3-811c-4ea5-8031-f79634afb5e5)
 
